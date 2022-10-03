@@ -40,5 +40,6 @@ pipeline {
           sh 'docker push simple-java:latest'
         }
       }
+    }
 }
 }
